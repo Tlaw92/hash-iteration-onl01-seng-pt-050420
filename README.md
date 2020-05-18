@@ -12,7 +12,9 @@ We'll use iteration to access and manipulate data from hashes.
 ## Iterating Over Hashes
 
 Previously, we've compared hashes to dictionaries or storage containers. Just
-like with these storage methods in real life, not only do we need to access our
+like 
+
+these storage methods in real life, not only do we need to access our
 stored information, but we need to utilize it in some way. This is where
 iteration comes in.
 
